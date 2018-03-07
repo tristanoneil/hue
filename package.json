@@ -1,0 +1,12 @@
+{
+  "author": "Tristan O'Neil",
+  "description": "For turning off and on hue lights",
+  "license": "MIT",
+  "main": "search.js",
+  "name": "lights",
+  "repository": "local",
+  "version": "1.0.0",
+  "dependencies": {
+    "huejay": "^1.8.0"
+  }
+}
